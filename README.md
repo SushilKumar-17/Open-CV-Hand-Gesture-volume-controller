@@ -10,7 +10,7 @@ This Python project utilizes **OpenCV**, **MediaPipe**, and **PyAutoGUI** to det
 <br>
 
 ### 🎬 Watch DemoVideo
-<video src="assets/Demo.mp4" controls width="600"></video>
+<video src="assets/demo.gif" controls width="600"></video>
 
 
 ---
