@@ -10,7 +10,7 @@ This Python project utilizes **OpenCV**, **MediaPipe**, and **PyAutoGUI** to det
 <br>
 
 ### 🎬 Watch DemoVideo
-<video src="assets/demo.gif" controls width="600"></video>
+<img src="assets/demo.gif" width="600" alt="Hand Gesture Demo">
 
 
 ---
