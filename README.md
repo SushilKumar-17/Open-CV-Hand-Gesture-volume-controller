@@ -5,11 +5,7 @@ This Python project utilizes **OpenCV**, **MediaPipe**, and **PyAutoGUI** to det
 
 ## 📸 Demo
 
-### 🔊 Gesture to Increase/Decrease Volume
-<img src="assets/img.png" width="600" alt="Hand Gesture Demo">
-<br>
-
-### 🎬 Watch DemoVideo
+### 🔊 Gesture to Increase/Decrease Volume (Watch Demo)
 <img src="assets/demo.gif" width="600" alt="Hand Gesture Demo">
 
 
